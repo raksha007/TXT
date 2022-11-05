@@ -1,1 +1,21 @@
 
+
+Bug-reports	
+ID	BR000001
+Summary	Не меняется язык в tooltip в поисковой строке после смены языка на сайте
+Pre-conditions	Открыть сайт https://ldubgd.edu.ua/
+Steps to Reproduce	1.Нажать на флаг Великой Британии в правом углу(cмена языка)
+	2.Навести курсор на поисковую строку
+	
+	
+	
+Expected result	Страница должна была перевестиcь на англ язык
+Actual result	Смена локализации не работает должным образом
+Post-condition	Закрыть страницу
+Environment	"Chrome 104.0.5112.81 (Официальная сборка), (64 бит)
+"
+Severity	Trivial
+Priority	Low
+Submit Date	16.08.2022
+Reporter	Stepan Sheihas
+Attachment	
